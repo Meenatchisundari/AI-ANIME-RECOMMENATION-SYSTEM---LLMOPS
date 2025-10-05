@@ -655,7 +655,7 @@ kubectl get all -n monitoring
    - Network traffic
    - And much more!
 
-🎉 **Success!** Your cluster is now being monitored!
+ **Success!** Your cluster is now being monitored!
 
 ---
 
