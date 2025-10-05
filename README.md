@@ -594,7 +594,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 - [ ] Add user authentication and profiles
 - [ ] Implement rating system for recommendations
