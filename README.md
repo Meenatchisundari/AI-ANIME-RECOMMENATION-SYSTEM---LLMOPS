@@ -2,8 +2,6 @@
 
 An intelligent anime recommender application that leverages LLMOps techniques with LangChain, ChromaDB, Grafana Cloud, HuggingFace, and Groq to deliver personalized anime recommendations through an interactive Streamlit web interface.
 
-![Architecture](https://via.placeholder.com/1200x300/1a1a1a/ffffff?text=AI+Anime+Recommendation+System)
-
 ##  Table of Contents
 - [Features](#-features)
 - [Architecture](#-architecture)
